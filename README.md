@@ -3,7 +3,8 @@
 ## Installation & Prerequisites
 1. Instal python [documentation](https://www.python.org/downloads/)
 2. Install pytest [documentation](https://docs.pytest.org/en/7.1.x/getting-started.html)
-   Add path in Enviroment Variables-System variables "AppData\Roaming\Python\Python312\Scripts"
+
+   - Add path in Enviroment Variables-System variables "AppData\Roaming\Python\Python312\Scripts"
 4. Install openpyxl [documentation](https://pypi.org/project/openpyxl/)
 5. Install pytest-html [documentation](https://pypi.org/project/pytest-html/)
 6. Install PyCharm [documentation](https://www.jetbrains.com/help/pycharm/installation-guide.html)
