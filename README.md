@@ -22,7 +22,7 @@ Test can be run in three browsers:
 Example command for running tests in chrome browser
 **py.test --browser_name chrome --html=../reports/reports.html -v --junitxml="../reports/result.xml**
 Example command for running tests in firefox browser
-**py.test --browser_name firefoc --html=../reports/reports.html -v --junitxml="../reports/result.xml**
+**py.test --browser_name firefox --html=../reports/reports.html -v --junitxml="../reports/result.xml**
 
 ## Test repors
 After the execution of tests results.html report is generated in the "reports" folder. 
